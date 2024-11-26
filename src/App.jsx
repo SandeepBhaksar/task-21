@@ -11,7 +11,7 @@ const App = () => {
     {id: 6, imageUrl: `Tej_Parker.webp`, title: `Tej Parker`, discription: `Tej Parker is a technical expert, mechanic and former street racer. Tej befriended Brian O'Conner, who allowed him to participate in races when he lived in Miami. `},
     {id: 7, imageUrl: `Deckard_Shaw.webp`, title: `Deckard Shaw`, discription: `Deckard "Deck" Shaw is the eldest child of Magdalene Shaw, the older brother of Owen and Hattie Shaw and a former UKSF military officer, assassin, and MI6 agent turned mercenary.`},
     {id: 7, imageUrl: `Ramsey.webp`, title: `Ramsey`, discription: `Ramsey is a computer hacker who created the God's Eye. She first crossed paths with Dominic Toretto's Crew after she was captured by Nigerian terrorist Mose Jakande under the orders of Cipher until Dom's crew saved her.`},
-    {id: 7, imageUrl: `Mr_Nobody.webp`, title: `Mr.Nobody`, discription: `"Mr. Nobody" was the alias of a government agent who led a covert organization known as the Agency and assigned Dominic Toretto's Crew with several missions and aided them on multiple occasions.`},
+    {id: 7, imageUrl: `Mr_Nobody.webp`, title: `Mr.Nobody`, discription: `"Mr. Nobody" was the alias of government agent who led a covert organization known as the Agency and assigned Dominic Toretto's Crew with several missions and aided them on multiple occasions.`},
   ];
 
   return (
